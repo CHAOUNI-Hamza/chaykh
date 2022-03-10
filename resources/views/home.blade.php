@@ -57,7 +57,8 @@
             <!--<a href="our-story.html" class="btn-learn-more">Learn More</a>-->
           </div>
           <div class="col-lg-6">
-            <img src="{{ Voyager::image( $information->description_image ) }}" class="img-fluid" alt="">
+            <!--<img src="{{ Voyager::image( $information->description_image ) }}" class="img-fluid" alt="">-->
+            <img src="https://1.bp.blogspot.com/-Jv7-rwev1B4/Xzen1BfsxzI/AAAAAAAABaY/hOmbV4BEX_oSKJyc1w2-OfdTArCru8YDwCLcBGAsYHQ/s1600/Photo_1597482849708.jpg" class="img-fluid" alt="">
           </div>
         </div>
 
@@ -93,7 +94,10 @@
         <div class="recent-photos-slider swiper">
           <div class="swiper-wrapper align-items-center">
           @foreach ($images as $image)
-            <div class="swiper-slide"><a href="assets/img/recent-photos/recent-photos-1.jpg" class="glightbox"><img src="{{ Voyager::image( $image->photo ) }}" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/recent-photos/recent-photos-1.jpg" class="glightbox">
+             <!-- <img src="{{ Voyager::image( $image->photo ) }}" class="img-fluid" alt="">-->
+              <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F24%2F2021%2F04%2F15%2FGettyImages-512083847-1-2000.jpg" class="img-fluid" alt="">
+            </a></div>
             @endforeach
           </div>
           <div class="swiper-pagination"></div>
