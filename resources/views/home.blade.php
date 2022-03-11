@@ -11,7 +11,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(https://facebooktimelinephotos.files.wordpress.com/2012/01/love.png)">
+        <div class="carousel-item active" style="background-image: url(https://tethkarstore.com/wp-content/uploads/2020/02/101.jpg)">
         </div>
 
         <!-- Slide 2 -->
@@ -19,7 +19,7 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(https://modo3.com/thumbs/fit630x300/50513/1439208844/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%B9%D9%86_%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9.jpg)">
+        <div class="carousel-item" style="background-image: url(https://hyatoky.com/mwfiles/thumbs/fit630x300/12347/1606755305/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A8%D8%AE%D9%88%D8%B1_%D8%B9%D8%AF%D9%86%D9%8A.jpg)">
         </div>
 
       </div>
@@ -57,8 +57,8 @@
             <!--<a href="our-story.html" class="btn-learn-more">Learn More</a>-->
           </div>
           <div class="col-lg-6">
-            <!--<img src="{{ Voyager::image( $information->description_image ) }}" class="img-fluid" alt="">-->
-            <img src="https://1.bp.blogspot.com/-Jv7-rwev1B4/Xzen1BfsxzI/AAAAAAAABaY/hOmbV4BEX_oSKJyc1w2-OfdTArCru8YDwCLcBGAsYHQ/s1600/Photo_1597482849708.jpg" class="img-fluid" alt="">
+            <img src="{{ $information->description_image }}" class="img-fluid" alt="">
+            <!--<img src="https://1.bp.blogspot.com/-Jv7-rwev1B4/Xzen1BfsxzI/AAAAAAAABaY/hOmbV4BEX_oSKJyc1w2-OfdTArCru8YDwCLcBGAsYHQ/s1600/Photo_1597482849708.jpg" class="img-fluid" alt="">-->
           </div>
         </div>
 
