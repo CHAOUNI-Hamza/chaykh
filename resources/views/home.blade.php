@@ -11,7 +11,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/bakhoor-cover-AR22042021.jpg)">
+        <div class="carousel-item active" style="background-image: url(https://hyatoky.com/mwfiles/thumbs/fit630x300/12347/1606755305/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A8%D8%AE%D9%88%D8%B1_%D8%B9%D8%AF%D9%86%D9%8A.jpg)">
         </div>
 
         <!-- Slide 2 -->
