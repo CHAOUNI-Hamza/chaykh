@@ -11,7 +11,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(https://tethkarstore.com/wp-content/uploads/2020/02/101.jpg)">
+        <div class="carousel-item active" style="background-image: url(https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/bakhoor-cover-AR22042021.jpg)">
         </div>
 
         <!-- Slide 2 -->
